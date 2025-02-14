@@ -1,6 +1,7 @@
 ## Olá, eu sou Beatriz!
 
-- 📘 Estudando Machine learn
+- 📘 Estudando Machine learning
+- 📘 Aprendendo HTML e CSS
 
 <div>
   <a href="https://github.com/geekb21">
