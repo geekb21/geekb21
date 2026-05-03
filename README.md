@@ -9,6 +9,6 @@
     </a>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,github&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,aws,azure,github,react&perline=5)](https://skillicons.dev)
 
 
